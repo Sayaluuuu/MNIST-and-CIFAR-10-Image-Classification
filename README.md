@@ -1,4 +1,4 @@
-# 🖼️ Image Classification with CNN, LSTM & Transfer Learning (VGG16)
+# Image Classification with CNN, LSTM & Transfer Learning (VGG16)
 
 > A deep learning project implementing **three different neural network architectures** — CNN, LSTM, and Transfer Learning with VGG16 — to classify images from the MNIST digits and CIFAR-10 datasets using TensorFlow/Keras.
 
